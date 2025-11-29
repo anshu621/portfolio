@@ -431,11 +431,12 @@ color: #d5b54c;
  header menu li:hover{
     color: #b49e3c;
  }
-    .Cer-gallery img:popover-open{
+    .Cer-gallery img:hover{
     box-shadow: #1c272e;
-    size: 80%;
+    width:60%; 
     
  }
 
  
+
 
